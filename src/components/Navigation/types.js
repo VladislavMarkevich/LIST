@@ -1,5 +1,5 @@
 //@flow
-import type { Selector } from "../../kernel/types";
+import type { Selector } from "kernel/types";
 
 type OtherComponentProps = {
   //mapDispatchProps
